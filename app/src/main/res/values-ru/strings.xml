@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestVK</string>
+    <string name="nocity_title">город не указан</string>
+    <string name="universitylist_title">Список университетов:</string>
+    <string name="nouniversity_title">Университет не указан</string>
+    <string name="authorize_title">Войти через ВКонтакте</string>
+    <string name="title_friends_list">Друзья</string>
+    <string name="title_friends_detail">Группы друга</string>
+    <string name="errordialog_title">Ошибка</string>
+    <string name="emptydata_title">Нет данных</string>
+</resources>

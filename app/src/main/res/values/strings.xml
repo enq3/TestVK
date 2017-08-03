@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestVK</string>
+    <string name="nocity_title">City is not specified</string>
+    <string name="universitylist_title">List of universities:</string>
+    <string name="nouniversity_title">University not specified</string>
+    <string name="authorize_title">Sign in thru VKontakte</string>
+    <string name="title_friends_list">Friends</string>
+    <string name="title_friends_detail">Friend Groups</string>
+    <string name="errordialog_title">Error</string>
+    <string name="emptydata_title">No data</string>
+</resources>
